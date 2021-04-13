@@ -85,7 +85,6 @@ newTrial("Formulario",
    newText("<p><a href='' target='_blank'>Formulario</a></p>")
    ,
    newButton("Próximo")
-   ,
 )
 
 //Nova tela - Tela de instruções do treino
