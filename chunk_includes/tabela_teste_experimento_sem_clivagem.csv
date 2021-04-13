@@ -1,0 +1,16 @@
+﻿AudioTeste,OpcaoA,OpcaoB,Item,Group
+01D.wav,A. O Guilherme contou algo na segunda-feira.,B. O Renato viajou na segunda-feira.,01D,A
+01DSF.wav,A. O Renato viajou na segunda-feira.,B. O Guilherme contou algo na segunda-feira.,01DSF,B
+01OB.wav,A. O Gustavo não salvou ninguém.,B. O Gustavo não foi salvo por ninguém.,01OB,C
+"01SJ,wav",A. O Gustavo não foi salvo por ninguém.,B. O Gustavo não salvou ninguém.,01SJ,A
+01SF.wav,A. O Gustavo não salvou ninguém.,B. O Gustavo não foi salvo por ninguém.,01SF,B
+02D.wav,A. A madrinha insistiu sobre algo durante uma discussão.,B. A afilhada errou durante uma discussão.,02D,C
+02DSF.wav,A. A afilhada errou durante uma discussão.,B. A madrinha insistiu sobre algo durante uma discussão.,02DSF,A
+02OB.wav,A. O Danilo não indicou ninguém para o jornal.,B. O Danilo não foi indicado por ninguém para o jornal.,02OB,B
+02SJ.wav,A. O Danilo não foi indicado por ninguém para o jornal.,B. O Danilo não indicou ninguém para o jornal.,02SJ,C
+02SF.wav,A. O Danilo não indicou ninguém para o jornal.,B. O Danilo não foi indicado por ninguém para o jornal.,02SF,A
+03D.wav,A. Marta ligou para Camila.,B. Marta ligou para Renata.,03D,B
+03DSF.wav,A. Marta ligou para Renata.,B. Marta ligou para Camila.,03DSF,C
+03OB.wav,A. A Letícia não atendeu ninguém durante o serviço de bordo.,B. A Letícia não foi atendida por ninguém durante o serviço de bordo.,03OB,A
+03SJ.wav,A. A Letícia não foi atendida por ninguém durante o serviço de bordo.,B. A Letícia não atendeu ninguém durante o serviço de bordo.,03SJ,B
+03SF.wav,A. A Letícia não atendeu ninguém durante o serviço de bordo.,B. A Letícia não foi atendida por ninguém durante o serviço de bordo.,03SF,C
