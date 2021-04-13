@@ -71,7 +71,6 @@ newTrial("Participante",
     newVar("IDADE")
         .global()
         .set( getTextInput("Idade") )
-    ,
 )
 //Envia para o arquivo "results" o conteúdo da variável "NOME"
 .log( "NOME" , getVar("NOME") )
@@ -79,11 +78,11 @@ newTrial("Participante",
 .log( "IDADE", getVar("IDADE") )
 
 //Nova tela - Tela do formulário
-newTrial("Formulario"
+newTrial("Formulario",
+         
    newText("<p>Antes de prosseguir para o experimento, acesse por favor o formulário no link abaixo para a assinatura do Termo de Consentimento Livre Esclarecido</p>")
    ,
    newText("<p><a href='' target='_blank'>Formulario</a></p>")
-   ,
 )
 
 //Nova tela - Tela de instruções do treino
