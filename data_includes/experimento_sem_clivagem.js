@@ -83,6 +83,9 @@ newTrial("Formulario",
    newText("<p>Antes de prosseguir para o experimento, acesse por favor o formulário no link abaixo para a assinatura do Termo de Consentimento Livre Esclarecido</p>")
    ,
    newText("<p><a href='' target='_blank'>Formulario</a></p>")
+   ,
+   newButton("Próximo")
+   ,
 )
 
 //Nova tela - Tela de instruções do treino
