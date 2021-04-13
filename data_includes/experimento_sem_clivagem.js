@@ -118,6 +118,7 @@ Template("tabela_teste_experimento_sem_clivagem.csv",
 //Exibe na tela a imagem "alto_falante_icone.png"
         newImage("alto_falante_icone.png")
             .size( 90 , 90 )
+            .center()
             .print()
         ,
 //Cria um botão nomeado "Próximo", envia para o arquivo "results" a informação de quando ele foi pressionado e remove ele da tela
@@ -136,8 +137,8 @@ Template("tabela_teste_experimento_sem_clivagem.csv",
         ,
         //Cria um canvas (uma caixa) e coloca os textos "A" e "B" um ao lado do outro
         newCanvas( 1400 , 700 )
-            .add( 150 , 100 , getText("A") )
-            .add( 850 , 100 , getText("B") )
+            .add( 75 , 100 , getText("A") )
+            .add( 775 , 100 , getText("B") )
             .print() //Agora, dentro do canvas, é que os textos "A" e "B" serão impressos na tela
         ,
         //Possibilita a seleção dos textos "A" e "B" através do mouse ou das teclas "A" e "B". Também envia para o arquivo "result" qual texto foi selecionado
