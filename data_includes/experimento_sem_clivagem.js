@@ -135,9 +135,9 @@ Template("tabela_teste_experimento_sem_clivagem.csv",
         newText("B",variable.OpcaoB)
         ,
         //Cria um canvas (uma caixa) e coloca os textos "A" e "B" um ao lado do outro
-        newCanvas( 1400 , 700 )
-            .add( 0 , 100 , getText("A") )
-            .add( 700 , 100 , getText("B") )
+        newCanvas( 1800 , 900 )
+            .add( -100 , 100 , getText("A") )
+            .add( 350 , 100 , getText("B") )
             .print() //Agora, dentro do canvas, é que os textos "A" e "B" serão impressos na tela
         ,
         //Possibilita a seleção dos textos "A" e "B" através do mouse ou das teclas "A" e "B". Também envia para o arquivo "result" qual texto foi selecionado
