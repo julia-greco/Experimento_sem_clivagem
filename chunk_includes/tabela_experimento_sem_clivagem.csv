@@ -1,0 +1,155 @@
+Audio,OptionA,OptionB,ExpAnswer,Item,Group
+01OB.wav,A. O Gustavo não salvou ninguém.,B. O Gustavo não foi salvo por ninguém.,B,01OB,B
+02OB.wav,A. O Danilo não foi indicado por ninguém para o jornal.,B. O Danilo não indicou ninguém para o jornal.,A,02OB,A
+03OB.wav,A. A Letícia não atendeu ninguém durante o serviço de bordo.,B. A Letícia não foi atendida por ninguém durante o serviço de bordo.,B,03OB,C
+04OB.wav,A. O Ricardo não foi entediado por ninguém.,B. O Ricardo não entediou ninguém,A,04OB,B
+05OB.wav,A. A diretora não presenteou ninguém com um relógio.,B. A diretora não foi presenteada com um relógio por ninguém.,B,05OB,A
+06OB.wav,A. O solista não foi impressionado por ninguém durante a primeira música.,B. O solista não impressionou ninguém durante a primeira música.,A,06OB,C
+07OB.wav,A. A antagonista não estapeou ninguém durante a cena final.,B. A antagonista não foi estapeada por ninguém durante a cena final.,B,07OB,B
+08OB.wav,A. O repórter não foi informado por ninguém sobre a causa do acidente.,B. O repórter não informou ninguém sobre a causa do acidente.,A,08OB,A
+09OB.wav,A. O Antônio não denunciou ninguém na delegacia.,B. O Antônio não foi denunciado na delegacia por ninguém.,B,09OB,C
+10OB.wav,A. O Antônio não foi denunciado na delegacia por ninguém.,B. A Dolores não encontrou ninguém na porta do bar.,A,10OB,B
+11OB.wav,A. O Ernesto não contratou ninguém para a vaga de estagiário.,B. O Ernesto não foi contratado para a vaga de estagiário por ninguém.,B,11OB,A
+12OB.wav,A. A Juliana não foi defendida da acusação por ninguém.,B. A Juliana não defendeu ninguém da acusação.,A,12OB,C
+13OB.wav,A. A blogueira não entrevistou ninguém sobre o prêmio.,B. A blogueira não foi entrevistada sobre o prêmio por ninguém.,B,13OB,B
+14OB.wav,A. O cozinheiro não foi xingado por ninguém por causa do pedido.,B. O cozinheiro não xingou ninguém por causa do pedido.,A,14OB,A
+15OB.wav,A. A estagiária não avisou ninguém sobre a maquiagem,B. A estagiária não foi avisada por ninguém sobre a maquiagem.,B,15OB,C
+16OB.wav,A. Os funcionários não foram convidados por ninguém para a festa.,B. Os funcionários não convidaram ninguém para a festa.,A,16OB,B
+17OB.wav,A. A Priscila não corrigiu ninguém na postura final.,B. A Priscila não foi corrigida por ninguém na postura final.,B,17OB,A
+18OB.wav,A. A formanda não foi cumprimentada por ninguém depois da entrega do diploma.,B. A formanda não cumprimentou ninguém depois da entrega do diploma.,A,18OB,C
+19GAP.wav,A. O Danilo levou o Fernando no churrasco da empresa.,B. O Fernando levou a Camila no churrasco da empresa.,B,19GAP,A
+20GAP.wav,A. A Marcela criticou o Rodrigo no escritório da firma.,B. A Carina criticou a Marcela no escritório da firma.,A,20GAP,C
+21GAP.wav,A. O Geraldo encontrou o Leandro no calçadão da cidade.,B. O Leandro encontrou a Fernanda no calçadão da cidade.,B,21GAP,B
+22GAP.wav,A. O Guilherme intimidou a Larissa no corredor da escola.,B. O Camilo intimidou o Guilherme no corredor da escola.,A,22GAP,A
+23GAP.wav,A. O Diogo apresentou o Murilo aos amigos da escola.,B. O Murilo apresentou a Sabrina aos amigos da escola.,B,23GAP,C
+24GAP.wav,A. A Lorena conheceu o Marcelo na lanchonete do bairro.,B. A Marina conheceu a Lorena na lanchonete do bairro.,A,24GAP,B
+25GAP.wav,A. A Simone acertou a Vanessa com os ovos da quitanda.,B. A Vanessa acertou o Renato com os ovos da quitanda.,B,25GAP,A
+26GAP.wav,A. A Milena ajudou o Nicolas com a pintura dos cômodos.,B. A Gisele ajudou a Milena com a pintura dos cômodos.,A,26GAP,C
+27GAP.wav,A. A Solange denunciou a Talita no tribunal de justiça.,B. A Talita denunciou o Rodrigo no tribunal de justiça,B,27GAP,B
+28GAP.wav,A. O Ricardo pagou a Cristina com o dinheiro da herança.,B. O Bernardo pagou o Ricardo com o dinheiro da herança.,A,28GAP,A
+29GAP.awv,A. A Samanta visitou a Renata na fazenda da família,B. A Renata visitou o Francisco na fazenda da família.,B,29GAP,C
+30GAP.wav,A. A Clarissa elogiou o Felipe no almoço da firma.,B. A Suzana elogiou a Clarissa no almoço da firma.,A,30GAP,B
+31GAP.wav,A. A Priscila recomendou a Tamires para o gerente do escritório.,B. A Tamires recomendou o Ronaldo para o gerente do escritório.,B,31GAP,A
+32GAP.wav,A. A Rebeca flagrou o Roberto com bebidas alcóolicas.,B. A Denise flagrou a Rebeca com bebidas alcóolicas.,A,32GAP,C
+33GAP.wav,A. O Gilberto convidou o Laerte para um cinema.,B. O Laerte convidou a Silvana para um cinema.,B,33GAP,B
+34GAP.wav,A. A Michele ensinou o Fabrício sobre costura.,B. A Paloma ensinou a Michele sobre costura.,A,34GAP,A
+35GAP.wav,A. O Gustavo insultou o Leandro durante o intervalo.,B. O Leandro insultou a Roberta durante o intervalo.,B,35GAP,C
+36GAP.wav,A. O Rodolfo presenteou a Nicole com um celular novo.,B. O Diego presenteou o Rodolfo com um celular novo.,A,36GAP,B
+19OBJ.wav,A. O Danilo levou o Fernando no churrasco da empresa.,B. O Fernando levou a Camila no churrasco da empresa.,B,19OBJ,B
+20OBJ.wav,A. A Marcela criticou o Rodrigo no escritório da firma.,B. A Carina criticou a Marcela no escritório da firma.,A,20OBJ,A
+21OBJ.wav,A. O Geraldo encontrou o Leandro no calçadão da cidade.,B. O Leandro encontrou a Fernanda no calçadão da cidade.,B,21OBJ,C
+22OBJ.wav,A. O Guilherme intimidou a Larissa no corredor da escola.,B. O Camilo intimidou o Guilherme no corredor da escola.,A,22OBJ,B
+23OBJ.wav,A. O Diogo apresentou o Murilo aos amigos da escola.,B. O Murilo apresentou a Sabrina aos amigos da escola.,B,23OBJ,A
+24OBJ.wav,A. A Lorena conheceu o Marcelo na lanchonete do bairro.,B. A Marina conheceu a Lorena na lanchonete do bairro.,A,24OBJ,C
+25OBJ.wav,A. A Simone acertou a Vanessa com os ovos da quitanda.,B. A Vanessa acertou o Renato com os ovos da quitanda.,B,25OBJ,B
+26OBJ.wav,A. A Milena ajudou o Nicolas com a pintura dos cômodos.,B. A Gisele ajudou a Milena com a pintura dos cômodos.,A,26OBJ,A
+27OBJ.wav,A. A Solange denunciou a Talita no tribunal de justiça.,B. A Talita denunciou o Rodrigo no tribunal de justiça,B,27OBJ,C
+28OBJ.wav,A. O Ricardo pagou a Cristina com o dinheiro da herança.,B. O Bernardo pagou o Ricardo com o dinheiro da herança.,A,28OBJ,B
+29OBJ.wav,A. A Samanta visitou a Renata na fazenda da família,B. A Renata visitou o Francisco na fazenda da família.,B,29OBJ,A
+30OBJ.wav,A. A Clarissa elogiou o Felipe no almoço da firma.,B. A Suzana elogiou a Clarissa no almoço da firma.,A,30OBJ,C
+31OBJ.wav,A. A Priscila recomendou a Tamires para o gerente do escritório.,B. A Tamires recomendou o Ronaldo para o gerente do escritório.,B,31OBJ,B
+32OBJ.wav,A. A Rebeca flagrou o Roberto com bebidas alcóolicas.,B. A Denise flagrou a Rebeca com bebidas alcóolicas.,A,32OBJ,A
+33OBJ.wav,A. O Gilberto convidou o Laerte para um cinema.,B. O Laerte convidou a Silvana para um cinema.,B,33OBJ,C
+34OBJ.wav,A. A Michele ensinou o Fabrício sobre costura.,B. A Paloma ensinou a Michele sobre costura.,A,34OBJ,B
+35OBJ.wav,A. O Gustavo insultou o Leandro durante o intervalo.,B. O Leandro insultou a Roberta durante o intervalo.,B,35OBJ,A
+36OBJ.wav,A. O Rodolfo presenteou a Nicole com um celular novo.,B. O Diego presenteou o Rodolfo com um celular novo.,A,36OBJ,C
+19BASE.wav,A. O Danilo levou o Fernando no churrasco da empresa.,B. O Fernando levou a Camila no churrasco da empresa.,B,19BASE,C
+20BASE.wav,A. A Marcela criticou o Rodrigo no escritório da firma.,B. A Carina criticou a Marcela no escritório da firma.,A,20BASE,B
+21BASE.wav,A. O Geraldo encontrou o Leandro no calçadão da cidade.,B. O Leandro encontrou a Fernanda no calçadão da cidade.,B,21BASE,A
+22BASE.wav,A. O Guilherme intimidou a Larissa no corredor da escola.,B. O Camilo intimidou o Guilherme no corredor da escola.,A,22BASE,C
+23BASE.wav,A. O Diogo apresentou o Murilo aos amigos da escola.,B. O Murilo apresentou a Sabrina aos amigos da escola.,B,23BASE,B
+24BASE.wav,A. A Lorena conheceu o Marcelo na lanchonete do bairro.,B. A Marina conheceu a Lorena na lanchonete do bairro.,A,24BASE,A
+25BASE.wav,A. A Simone acertou a Vanessa com os ovos da quitanda.,B. A Vanessa acertou o Renato com os ovos da quitanda.,B,25BASE,C
+26BASE.wav,A. A Milena ajudou o Nicolas com a pintura dos cômodos.,B. A Gisele ajudou a Milena com a pintura dos cômodos.,A,26BASE,B
+27BASE.wav,A. A Solange denunciou a Talita no tribunal de justiça.,B. A Talita denunciou o Rodrigo no tribunal de justiça,B,27BASE,A
+28BASE.wav,A. O Ricardo pagou a Cristina com o dinheiro da herança.,B. O Bernardo pagou o Ricardo com o dinheiro da herança.,A,28BASE,C
+29BASE.wav,A. A Samanta visitou a Renata na fazenda da família,B. A Renata visitou o Francisco na fazenda da família.,B,29BASE,B
+30BASE.wav,A. A Clarissa elogiou o Felipe no almoço da firma.,B. A Suzana elogiou a Clarissa no almoço da firma.,A,30BASE,A
+31BASE.wav,A. A Priscila recomendou a Tamires para o gerente do escritório.,B. A Tamires recomendou o Ronaldo para o gerente do escritório.,B,31BASE,C
+32BASE.wav,A. A Rebeca flagrou o Roberto com bebidas alcóolicas.,B. A Denise flagrou a Rebeca com bebidas alcóolicas.,A,32BASE,B
+33BASE.wav,A. O Gilberto convidou o Laerte para um cinema.,B. O Laerte convidou a Silvana para um cinema.,B,33BASE,A
+34BASE.wav,A. A Michele ensinou o Fabrício sobre costura.,B. A Paloma ensinou a Michele sobre costura.,A,34BASE,C
+35BASE.wav,A. O Gustavo insultou o Leandro durante o intervalo.,B. O Leandro insultou a Roberta durante o intervalo.,B,35BASE,B
+36BASE.wav,A. O Rodolfo presenteou a Nicole com um celular novo.,B. O Diego presenteou o Rodolfo com um celular novo.,A,36BASE,A
+01SJ.wav,A. O Gustavo não salvou ninguém.,B. O Gustavo não foi salvo por ninguém.,B,01SJ,A
+02SJ.wav,A. O Danilo não foi indicado por ninguém para o jornal.,B. O Danilo não indicou ninguém para o jornal.,A,02SJ,B
+03SJ.wav,A. A Letícia não atendeu ninguém durante o serviço de bordo.,B. A Letícia não foi atendida por ninguém durante o serviço de bordo.,B,03SJ,C
+04SJ.wav,A. O Ricardo não foi entediado por ninguém.,B. O Ricardo não entediou ninguém,A,04SJ,A
+05SJ.wav,A. A diretora não presenteou ninguém com um relógio.,B. A diretora não foi presenteada com um relógio por ninguém.,B,05SJ,B
+06SJ.wav,A. O solista não foi impressionado por ninguém durante a primeira música.,B. O solista não impressionou ninguém durante a primeira música.,A,06SJ,C
+07SJ.wav,A. A antagonista não estapeou ninguém durante a cena final.,B. A antagonista não foi estapeada por ninguém durante a cena final.,B,07SJ,A
+08SJ.wav,A. O repórter não foi informado por ninguém sobre a causa do acidente.,B. O repórter não informou ninguém sobre a causa do acidente.,A,08SJ,B
+09SJ.wav,A. O Antônio não denunciou ninguém na delegacia.,B. O Antônio não foi denunciado na delegacia por ninguém.,B,09SJ,C
+10SJ.wav,A. O Antônio não foi denunciado na delegacia por ninguém.,B. A Dolores não encontrou ninguém na porta do bar.,A,10SJ,A
+11SJ.wav,A. O Ernesto não contratou ninguém para a vaga de estagiário.,B. O Ernesto não foi contratado para a vaga de estagiário por ninguém.,B,11SJ,B
+12SJ.wav,A. A Juliana não foi defendida da acusação por ninguém.,B. A Juliana não defendeu ninguém da acusação.,A,12SJ,C
+13SJ.wav,A. A blogueira não entrevistou ninguém sobre o prêmio.,B. A blogueira não foi entrevistada sobre o prêmio por ninguém.,B,13SJ,A
+14SJ.wav,A. O cozinheiro não foi xingado por ninguém por causa do pedido.,B. O cozinheiro não xingou ninguém por causa do pedido.,A,14SJ,B
+15SJ.wav,A. A estagiária não avisou ninguém sobre a maquiagem,B. A estagiária não foi avisada por ninguém sobre a maquiagem.,B,15SJ,C
+16SJ.wav,A. Os funcionários não foram convidados por ninguém para a festa.,B. Os funcionários não convidaram ninguém para a festa.,A,16SJ,A
+17SJ.wav,A. A Priscila não corrigiu ninguém na postura final.,B. A Priscila não foi corrigida por ninguém na postura final.,B,17SJ,B
+18SJ.wav,A. A formanda não foi cumprimentada por ninguém depois da entrega do diploma.,B. A formanda não cumprimentou ninguém depois da entrega do diploma.,A,18SJ,C
+01D.wav,A. O Guilherme contou algo na segunda-feira.,B. O Renato viajou na segunda-feira.,D,01D,A
+02D.wav,A. A afilhada errou durante uma discussão.,B. A madrinha insistiu sobre algo durante uma discussão.,D,02D,A
+03D.wav,A. Marta ligou para Camila.,B. Marta ligou para Renata.,D,03D,A
+04D.wav,A. A vilã estava de moto.,B. A heroína estava de moto.,D,04D,A
+05D.wav,A. A história do jornalista foi contada para a plateia.,B. A história do autor famoso foi contada para a plateia.,D,05D,A
+06D.wav,A. A história do autor famoso foi contada para a plateia.,B. Isabela usava binóculos dourados.,D,06D,A
+07D.wav,A. A polícia estava numa van azul.,B. O suspeito estava numa van azul.,D,07D,A
+08DSF.wav,A. A Fernanda venceu na reunião do partido,B. A Carol anunciou algo na reunião do partido.,D,08DSF,A
+09DSF.wav,A. O André revelou algo depois das férias de julho.,B. O Breno se formou depois das férias de julho.,D,09DSF,A
+10DSF.wav,A. O réu escapou na saída do julgamento.,B. O advogado afirmou algo na saída do julgamento.,D,10DSF,A
+11DSF.wav,A. Paulo ouviu algo após a prova de física.,B. Jaime surtou após a prova de física.,D,11DSF,A
+12DSF.wav,A. A avó deu um livro de receitas para a neta.,B. A avó deu um livro com as suas receitas para a neta.,D,12DSF,A
+13DSF.wav,A. Júlio e Cláudio chamaram Caio para um passeio no parque.,B. Júlio chamou Cláudio e Caio para um passeio no parque.,D,13DSF,A
+14DSF.wav,A. Os amigos vão para o litoral.,B. A família vai para o litoral.,D,14DSF,A
+01D.wav,A. O Renato viajou na segunda-feira.,B. O Guilherme contou algo na segunda-feira.,D,01D,B
+02D.wav,A. A madrinha insistiu sobre algo durante uma discussão.,B. A afilhada errou durante uma discussão.,D,02D,B
+03D.wav,A. Marta ligou para Renata.,B. Marta ligou para Camila.,D,03D,B
+04D.wav,A. A heroína estava de moto.,B. A vilã estava de moto.,D,04D,B
+05D.wav,A. A história do autor famoso foi contada para a plateia.,B. A história do jornalista foi contada para a plateia.,D,05D,B
+06D.wav,A. Isabela usava binóculos dourados.,B. A história do autor famoso foi contada para a plateia.,D,06D,B
+07D.wav,A. O suspeito estava numa van azul.,B. A polícia estava numa van azul.,D,07D,B
+08DSF.wav,A. A Carol anunciou algo na reunião do partido.,B. A Fernanda venceu na reunião do partido,D,08DSF,B
+09DSF.wav,A. O Breno se formou depois das férias de julho.,B. O André revelou algo depois das férias de julho.,D,09DSF,B
+10DSF.wav,A. O advogado afirmou algo na saída do julgamento.,B. O réu escapou na saída do julgamento.,D,10DSF,B
+11DSF.wav,A. Jaime surtou após a prova de física.,B. Paulo ouviu algo após a prova de física.,D,11DSF,B
+12DSF.wav,A. A avó deu um livro com as suas receitas para a neta.,B. A avó deu um livro de receitas para a neta.,D,12DSF,B
+13DSF.wav,A. Júlio chamou Cláudio e Caio para um passeio no parque.,B. Júlio e Cláudio chamaram Caio para um passeio no parque.,D,13DSF,B
+14DSF.wav,A. A família vai para o litoral.,B. Os amigos vão para o litoral.,D,14DSF,B
+01D.wav,A. O Guilherme contou algo na segunda-feira.,B. O Renato viajou na segunda-feira.,D,01D,C
+02D.wav,A. A afilhada errou durante uma discussão.,B. A madrinha insistiu sobre algo durante uma discussão.,D,02D,C
+03D.wav,A. Marta ligou para Camila.,B. Marta ligou para Renata.,D,03D,C
+04D.wav,A. A vilã estava de moto.,B. A heroína estava de moto.,D,04D,C
+05D.wav,A. A história do jornalista foi contada para a plateia.,B. A história do autor famoso foi contada para a plateia.,D,05D,C
+06D.wav,A. A história do autor famoso foi contada para a plateia.,B. Isabela usava binóculos dourados.,D,06D,C
+07D.wav,A. A polícia estava numa van azul.,B. O suspeito estava numa van azul.,D,07D,C
+08DSF.wav,A. A Fernanda venceu na reunião do partido,B. A Carol anunciou algo na reunião do partido.,D,08DSF,C
+09DSF.wav,A. O André revelou algo depois das férias de julho.,B. O Breno se formou depois das férias de julho.,D,09DSF,C
+10DSF.wav,A. O réu escapou na saída do julgamento.,B. O advogado afirmou algo na saída do julgamento.,D,10DSF,C
+11DSF.wav,A. Paulo ouviu algo após a prova de física.,B. Jaime surtou após a prova de física.,D,11DSF,C
+12DSF.wav,A. A avó deu um livro de receitas para a neta.,B. A avó deu um livro com as suas receitas para a neta.,D,12DSF,C
+13DSF.wav,A. Júlio e Cláudio chamaram Caio para um passeio no parque.,B. Júlio chamou Cláudio e Caio para um passeio no parque.,D,13DSF,C
+14DSF.wav,A. Os amigos vão para o litoral.,B. A família vai para o litoral.,D,14DSF,C
+01SF.wav,A. O Gustavo não salvou ninguém.,B. O Gustavo não foi salvo por ninguém.,B,01SF,C
+02SF.wav,A. O Danilo não indicou ninguém para o jornal.,B. O Danilo não foi indicado por ninguém para o jornal.,A,02SF,B
+03SF.wav,A. A Letícia não atendeu ninguém durante o serviço de bordo.,B. A Letícia não foi abordada por ninguém.,B,03SF,A
+04SF.wav,A. O Ricardo não entediou ninguém.,B. O Ricardo não foi entediado por ninguém.,A,04SF,C
+05SF.wav,A. A diretora não presenteou ninguém com um relógio.,B. A diretora não foi presentada com um relógio por ninguém.,B,05SF,B
+06SF.wav,A. O solista não impressionou ninguém durante a primeira música.,B. O solista não foi impresionado por ninguém durante a primeira música.,A,06SF,A
+07SF.wav,A. A antagonista não estapeou ninguém durante a cena final.,B. A antagonista não foi estapeada por ninguém durante a cena final.,B,07SF,C
+08SF.wav,A. O repórter não informou ninguém sobre a  causa do acidente.,B. O repórter não foi informado por ninguém sobre a causa do acidente.,A,08SF,B
+09SF.wav,A. O Antônio não denunciou ninguém na delegacia.,B. O Antônio não foi denunciado na delegacia por ninguém.,B,09SF,A
+10SF.wav,A. A Dolores não encontrou ninguém na porta do bar.,B. A Dolores não foi encontrada por ninguém na porta do bar.,A,10SF,C
+11SF.wav,A. O Ernesto não contratou ninguém para a vaga de estagiário.,B. O Ernesto não foi contratado por ninguém para a vaga de estagiário.,B,11SF,B
+12SF.wav,A. A Juliana não defendeu ninguém da accusação.,B. A Juliana não foi defendida da acusação por ninguém.,A,12SF,A
+13SF.wav,A. A blogueira não entrevistou ninguém sobre o prêmio.,B. A blogueira não foi entrevistada por ninguém.,B,13SF,C
+14SF.wav,A. O cozinheiro não xingou ninguém por causa do pedido.,B. O cozinheiro não foi xingado por ninguém por causa do pedido.,A,14SF,B
+15SF.wav,A. A estagiária não avisou ninguém sobre a maquiagem.,B. A estagiária não foi avisada por ninguém sobre a maquiagem.,B,15SF,A
+16SF.wav,A. Os funcionários não onvidaram ninguém para a festa.,B. Os funcionários não foram convidados por ninguém para a festa.,A,16SF,C
+17SF.wav,A. A Priscila não corrigiu ninguém na postura final.,A Priscila não foi corrigida por ninguém na postura final.,B,17SF,B
+18SF.wav,A. A formanda não cumprimentou ninguém depois da entrega do diploma.,B. A formanda não foi cumprimentada por ninguém depois da entrega do diploma.,A,18SF,A
+,,,,,
+,,,,,
+,,,,,
+,,,,,
