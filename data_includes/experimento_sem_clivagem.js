@@ -54,7 +54,6 @@ newTrial("Participante",
                   .add("Médio completo", "Superior em curso", "Superior completo", "Pós-graduação")
                   .css("font-size","1.2em")
                   .print()
-                  .log() //Envia para o arquivo "results" a opção selecionada pelo participante 
          ,
 //Cria um botão nomeado "Iniciar"
          newButton("Iniciar")
@@ -71,11 +70,16 @@ newTrial("Participante",
     newVar("IDADE")
         .global()
         .set( getTextInput("Idade") )
+    ,
+    newVar("ESCOLARIDADE")
+        .global()
+        .set( getDropDown("Escolaridade") )
 )
 //Envia para o arquivo "results" o conteúdo da variável "NOME"
 .log( "NOME" , getVar("NOME") )
 .log( "EMAIL", getVar("EMAIL") )
 .log( "IDADE", getVar("IDADE") )
+.log( "ESCOLARIDADE", getVar("ESCOLARIDADE") )
 
 //Nova tela - Tela do formulário
 newTrial("Formulario",
@@ -137,7 +141,7 @@ Template("tabela_teste_experimento_sem_clivagem.csv",
         //Cria um canvas (uma caixa) e coloca os textos "A" e "B" um ao lado do outro
         newCanvas( 1800 , 900 )
             .add( -100 , 100 , getText("A") )
-            .add( 350 , 100 , getText("B") )
+            .add( 300 , 100 , getText("B") )
             .print() //Agora, dentro do canvas, é que os textos "A" e "B" serão impressos na tela
         ,
         //Possibilita a seleção dos textos "A" e "B" através do mouse ou das teclas "A" e "B". Também envia para o arquivo "result" qual texto foi selecionado
